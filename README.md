@@ -15,11 +15,6 @@ This repository showcases biotechnology projects completed through academic cour
 - Gained understanding of GMP principles and biopharmaceutical production.
 
 
-### 2. Biodiesel Production from *Jatropha curcas*
-- Produced biodiesel through the transesterification of Jatropha oil.
-- Evaluated production parameters and fuel properties.
-- Assessed biodiesel as a sustainable alternative renewable fuel.
-
 ### 3. HIV/AIDS Review
 
 Reviewed the following key aspects of HIV/AIDS:
