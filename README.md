@@ -17,8 +17,8 @@ This repository showcases biotechnology projects completed through academic cour
 ### 2. An extension of cancer immunotherapy with dostarlimab, the PD1-PD L1 pathway blocker
 - Understanding Masking mechanism of cancer cells.
 - Gaining knowledge of monoclonal mAB or moAB.
-- Deep resarch on Dostarlimab and Cancer Immunotherapy
-- Analyzed Trail Results
+- Deep resarch on Dostarlimab and Cancer Immunotherapy.
+- Analyzed Trail Results.
 
   
 ### 3. HIV/AIDS Review
