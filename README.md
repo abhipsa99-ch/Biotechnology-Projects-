@@ -1,9 +1,9 @@
 # Biotechnology Projects
-A collection of biotechnology projects covering biochemistry, pharmaceutical, plant biotechnology, laboratory techniques, genomics, and biotechnology research.
+A collection of biotechnology projects covering molecular biology, pharmaceutical, plant biotechnology, microbiology, genetics, and biotechnology research.
 
 ## Overview
 
-This repository showcases biotechnology projects completed through academic coursework, research, internships, and technical training. The projects span biopharmaceutical manufacturing, molecular biology, bioinformatics, plant biotechnology, analytical techniques, and renewable biofuels, demonstrating practical laboratory experience and interdisciplinary problem-solving.
+This repository showcases biotechnology projects completed through academic coursework, research, internships, and technical training. The projects span biopharmaceutical manufacturing, molecular biology, microbiology, plant biotechnology, analytical techniques, demonstrating engineering application and interdisciplinary problem-solving.
 
 ---
 
@@ -14,7 +14,13 @@ This repository showcases biotechnology projects completed through academic cour
 - Explored filtration, chromatography, formulation, quality assurance, and manufacturing operations.
 - Gained understanding of GMP principles and biopharmaceutical production.
 
+### 2. An extension of cancer immunotherapy with dostarlimab, the PD1-PD L1 pathway blocker
+- Understanding Masking mechanism of cancer cells.
+- Gaining knowledge of monoclonal mAB or moAB.
+- Deep resarch on Dostarlimab and Cancer Immunotherapy
+- Analyzed Trail Results
 
+  
 ### 3. HIV/AIDS Review
 
 Reviewed the following key aspects of HIV/AIDS:
@@ -37,7 +43,8 @@ Reviewed the following key aspects of HIV/AIDS:
   
 ### 4. Genetics & Diabetes
 
-Studied the genetic basis of diabetes, including Type 1 Diabetes, LADA, and MODY. Explored HLA-associated genetic susceptibility, insulin structure and secretion, glucose metabolism, glucose transport, and insulin receptor signaling. Reviewed rare genetic forms of diabetes, laboratory diagnostic tests (HbA1c, OGTT, C-peptide, GAD antibody, lipid profile), and current concepts in genomic medicine, personalized medicine, and diabetes research.
+- Studied the genetic basis of diabetes, including Type 1 Diabetes, LADA, and MODY. Explored HLA-associated genetic susceptibility, insulin structure and secretion, glucose metabolism, glucose transport, and insulin receptor signaling.
+- Reviewed rare genetic forms of diabetes, laboratory diagnostic tests (HbA1c, OGTT, C-peptide, GAD antibody, lipid profile), and current concepts in genomic medicine, personalized medicine, and diabetes research.
 
 ### 5. Plant Response to Nanopollution at the Molecular and Physiological Level
 - Investigated the effects of nanomaterials on plant growth and development.
@@ -70,7 +77,6 @@ Studied the genetic basis of diabetes, including Type 1 Diabetes, LADA, and MODY
 - Chromatography
 - Filtration
 - Bioreactor Operations
-- Transesterification
 - Protein Structure Prediction
 - Raman Spectroscopy
 - Bioinformatics Analysis
@@ -82,7 +88,7 @@ Studied the genetic basis of diabetes, including Type 1 Diabetes, LADA, and MODY
 
 ## Repository Purpose
 
-This repository serves as a portfolio of biotechnology projects demonstrating technical knowledge, research experience, laboratory skills, and engineering applications across biotechnology, biopharmaceutical manufacturing, renewable energy, and plant sciences.
+This repository serves as a portfolio of biotechnology projects demonstrating technical knowledge, research experience and engineering applications across biotechnology, biopharmaceutical manufacturing, microbiology, and plant sciences.
 
 ---
 
