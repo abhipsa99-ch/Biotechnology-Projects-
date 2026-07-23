@@ -24,21 +24,8 @@ This repository showcases biotechnology projects completed through academic cour
 ### 3. HIV/AIDS Review
 
 Reviewed the following key aspects of HIV/AIDS:
-
-- Structure of HIV
-- Mode of Action (Pathogenesis)
-- Transmission
-- Incubation Period
-- Clinical Signs and Symptoms
-- Effects on the Immune System
-- Renal Complications
-- Diagnostic Tests and Laboratory Monitoring
-- Disease Monitoring (CD4 Count, Viral Load, Treatment Response)
-- Antiretroviral Therapy (ART)
-- Classes of Antiretroviral Drugs
-- Drug Mechanisms of Action
-- Drug Resistance
-- Treatment Guidelines and Patient Management
+- Structure of HIV, Mode of Action (Pathogenesis), Transmission, Incubation Period, Clinical Signs and Symptoms, Effects on the Immune System, Renal Complications, Diagnostic Tests and Laboratory Monitoring
+- Disease Monitoring (CD4 Count, Viral Load, Treatment Response), Antiretroviral Therapy (ART), Classes of Antiretroviral Drugs, Drug Mechanisms of Action, Drug Resistance, Treatment Guidelines and Patient Management
 - Prevention and Infection Control
   
 ### 4. Genetics & Diabetes
