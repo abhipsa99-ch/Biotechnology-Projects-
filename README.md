@@ -42,33 +42,17 @@ Reviewed the following key aspects of HIV/AIDS:
 
 ## Technical Skills Demonstrated
 
-- Bioprocess Engineering
-- Downstream Processing
-- Vaccine Manufacturing
-- Monoclonal Antibody Manufacturing
-- Bioinformatics
-- Protein Structure Analysis
-- Molecular Biology
-- Plant Biotechnology
-- Nanobiotechnology
-- Surface-Enhanced Raman Spectroscopy (SERS)
-- Renewable Biofuels
-- Laboratory Documentation
+- Bioprocess Engineering, Downstream Processing
+- Vaccine Manufacturing, Monoclonal Antibody Manufacturing
+- Molecular Biology, Plant Biotechnology, Nanobiotechnology
 - Scientific Literature Review
 - Data Analysis
 
 ---
-
 ## Tools and Techniques
 
-- Chromatography
-- Filtration
-- Bioreactor Operations
-- Protein Structure Prediction
-- Raman Spectroscopy
-- Bioinformatics Analysis
-- Molecular Biology Techniques
-- Statistical Data Analysis
+- Chromatography, Filtration
+- Bioreactor Operations,Molecular Biology Techniques
 - Microsoft Excel
 
 ---
